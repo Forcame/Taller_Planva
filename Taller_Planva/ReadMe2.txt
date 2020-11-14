@@ -6,4 +6,4 @@ Controles:
 W-A-S-D (Moverse)
 Barra espaciadora (Disparar)
 1 y 2 (Cambiar Proyectil)
-Z (Saltar)
+M (Saltar)
