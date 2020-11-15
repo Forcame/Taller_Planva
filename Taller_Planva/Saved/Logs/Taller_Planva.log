@@ -3291,3 +3291,7 @@ If checked into source control this would affect other developers.
 [2020.11.15-01.20.42:172][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
 [2020.11.15-01.22.39:010][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
 [2020.11.15-01.22.39:098][434]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap0A584DB04A9F56FC4FEAA59FD10C9B77.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-01.22.43:209][434]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap_BuiltData12202B6940B2FB3746E69EBAB3CC27DE.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-01.22.43:320][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-01.22.43:320][434]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-01.22.43:320][434]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
