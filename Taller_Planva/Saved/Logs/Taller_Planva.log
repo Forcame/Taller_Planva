@@ -2411,3 +2411,883 @@ If checked into source control this would affect other developers.
 [2020.11.14-23.50.16:952][776]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.14-23.50.16:952][776]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.11.14-23.50.16:952][776]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-00.00.07:921][821]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animation_BP.Animation_BP
+[2020.11.15-00.00.07:937][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.15-00.00.08:534][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.15-00.00.16:691][ 51]LogSlate: Window 'Animation_BP' being destroyed
+[2020.11.15-00.00.16:713][ 51]LogSlate: Window 'Animation_BP' being destroyed
+[2020.11.15-00.00.16:790][ 51]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.00.16:790][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.00.16:805][ 51]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.00.16:805][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.00.17:175][ 51]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.00.17:175][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.00.41:713][142]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.11.15-00.00.41:719][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.050
+[2020.11.15-00.00.41:720][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animation_BP] ([1] browsable assets)...
+[2020.11.15-00.00.41:720][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation_BP]
+[2020.11.15-00.00.41:779][142]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Animation_BP_Auto0E15D0CA24811FCC0EF4072A12CB5C284.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Character/Animation_BP_Auto0.uasset'
+[2020.11.15-00.00.41:781][142]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.11.15-00.08.04:035][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.15-00.08.27:986][801]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.10.42:370][453]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.11.15-00.10.42:375][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.043
+[2020.11.15-00.10.42:375][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.11.15-00.10.42:413][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.11.15-00.10.42:413][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.11.15-00.10.42:585][453]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonCharacter_Auto1E053E599422430BFB204318F62C6D4E2.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.11.15-00.10.42:589][453]LogFileHelpers: Auto-saving content packages took 0.214
+[2020.11.15-00.13.40:075][ 79]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.14.46:406][309]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.14.58:788][346]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.15.42:689][583]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.15.42:724][583]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.15-00.15.42:731][583]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.11.15-00.15.42:964][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.11.15-00.15.42:968][583]LogPlayLevel: PlayLevel: Blueprint regeneration took 243 ms (1 blueprints)
+[2020.11.15-00.15.42:969][583]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:15:42 PM)
+[2020.11.15-00.15.42:969][583]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.15.42:988][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019231s)
+[2020.11.15-00.15.42:989][583]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.15.42:990][583]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018A11CEF200), frame # 375583
+[2020.11.15-00.15.42:990][583]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018811051E40), frame # 375583
+[2020.11.15-00.15.42:990][583]LogPlayLevel: PIE: World Init took: (0.002380s)
+[2020.11.15-00.15.42:990][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021912s)
+[2020.11.15-00.15.43:026][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.15.43:027][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.15.43:027][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.15.43:028][583]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.15.43:028][583]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.15.43:030][583]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.15.43:031][583]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.15.43:117][583]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.15.43:118][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.15.43:118][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.15.43:118][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.15.43:119][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.15.43:150][583]LogInit: FAudioDevice initialized.
+[2020.11.15-00.15.43:160][583]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.15.43:162][583]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.15.43
+[2020.11.15-00.15.43:162][583]LogWorld: Bringing up level for play took: 0.002454
+[2020.11.15-00.15.43:163][583]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.11.15-00.15.43:167][583]PIE: Server logged in
+[2020.11.15-00.15.43:168][583]PIE: Play in editor total start time 0.447 seconds.
+[2020.11.15-00.15.50:468][836]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.51:229][855]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.51:883][870]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.51:884][870]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.51:884][870]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.52:551][885]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.52:551][885]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.52:552][885]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.53:110][897]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.53:111][897]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.53:111][897]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.54:246][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.15.54:246][919]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.15.54:246][919]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.15.54:247][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.15.54:258][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.15.54:266][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.15.54:297][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.15.54:344][919]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018811051E40), frame # 375919
+[2020.11.15-00.15.54:344][919]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018A11CEF200), frame # 375919
+[2020.11.15-00.15.54:351][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.15-00.15.54:543][920]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.11.15-00.15.55:693][974]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.15.55:697][974]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.15.56:367][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.15.56:398][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.15.56:398][ 10]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:15:56 PM)
+[2020.11.15-00.15.56:398][ 10]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.15.56:418][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018710s)
+[2020.11.15-00.15.56:419][ 10]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.15.56:419][ 10]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018A1D503E00), frame # 376010
+[2020.11.15-00.15.56:419][ 10]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001880AEDF4C0), frame # 376010
+[2020.11.15-00.15.56:420][ 10]LogPlayLevel: PIE: World Init took: (0.002053s)
+[2020.11.15-00.15.56:420][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020945s)
+[2020.11.15-00.15.56:455][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.15.56:460][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.15.56:460][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.15.56:461][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.15.56:461][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.15.56:464][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.15.56:464][ 10]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.15.56:499][ 10]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.15.56:500][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.15.56:500][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.15.56:500][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.15.56:500][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.15.56:523][ 10]LogInit: FAudioDevice initialized.
+[2020.11.15-00.15.56:535][ 10]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.15.56:538][ 10]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.15.56
+[2020.11.15-00.15.56:538][ 10]LogWorld: Bringing up level for play took: 0.002091
+[2020.11.15-00.15.56:538][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.11.15-00.15.56:542][ 10]PIE: Server logged in
+[2020.11.15-00.15.56:543][ 10]PIE: Play in editor total start time 0.149 seconds.
+[2020.11.15-00.15.58:266][ 87]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.58:836][110]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.59:421][132]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.59:422][132]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.59:422][132]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.59:972][150]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.15.59:973][150]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.15.59:973][150]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.00:667][172]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.16.00:668][172]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.00:668][172]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.01:279][191]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.16.01:280][191]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.01:280][191]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.01:828][206]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.16.01:828][206]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.01:828][206]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.10:283][390]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.16.10:283][390]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.10:284][390]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.16.11:198][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.16.11:198][406]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.16.11:199][406]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.16.11:199][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.16.11:213][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.16.11:222][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.16.11:251][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.16.11:292][406]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001880AEDF4C0), frame # 376406
+[2020.11.15-00.16.11:293][406]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018A1D503E00), frame # 376406
+[2020.11.15-00.16.11:304][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.11.15-00.16.11:467][407]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.11.15-00.16.13:479][499]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.16.13:492][499]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.16.50:501][641]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.17.20:339][765]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.21.09:186][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.11.15-00.21.09:374][910]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap_Auto23AA6EB2648546296E80A50983AFC6EEC.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.11.15-00.21.09:380][910]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.261
+[2020.11.15-00.21.09:380][910]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.261
+[2020.11.15-00.21.09:381][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animation_BP] ([1] browsable assets)...
+[2020.11.15-00.21.09:381][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation_BP]
+[2020.11.15-00.21.09:525][910]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Animation_BP_Auto2902DACA84C69900372A4529EFBB61AB0.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Character/Animation_BP_Auto2.uasset'
+[2020.11.15-00.21.09:530][910]LogFileHelpers: Auto-saving content packages took 0.149
+[2020.11.15-00.24.14:766][113]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.24.38:890][233]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.11.15-00.24.38:912][233]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.11.15-00.24.38:916][233]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.24.38:916][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.24.47:708][601]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-00.28.48:109][232]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.31.02:577][633]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.31.14:375][668]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.15-00.34.02:891][333]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Camara_WidgetF62FF44743434C054284CDB805D273DE.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/Interface/Camara_Widget.uasset'
+[2020.11.15-00.34.02:932][333]AssetCheck: New page: Asset Save: Camara_Widget
+[2020.11.15-00.34.02:932][333]LogContentValidation: Display: Validating WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-00.34.26:240][955]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event Construct  and was replaced as a Custom Event!
+[2020.11.15-00.35.10:660][204]LogSlate: Window 'Camara_Widget' being destroyed
+[2020.11.15-00.35.10:685][204]LogSlate: Window 'Camara_Widget' being destroyed
+[2020.11.15-00.35.10:718][204]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.35.10:718][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.35.10:768][204]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.35.10:768][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.35.12:050][255]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-00.35.17:531][425]BlueprintLog: New page: Compile Camara_Widget
+[2020.11.15-00.35.17:837][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.11.15-00.36.23:706][747]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo.Bullet_rojo
+[2020.11.15-00.37.18:002][738]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2020.11.15-00.37.18:015][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.065
+[2020.11.15-00.37.18:016][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.11.15-00.37.18:030][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.11.15-00.37.18:030][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.11.15-00.37.18:215][738]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonCharacter_Auto38228AA044DF61642DE1DBEAD5688600D.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2020.11.15-00.37.18:217][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/Camara_Widget] ([1] browsable assets)...
+[2020.11.15-00.37.18:217][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/Camara_Widget]
+[2020.11.15-00.37.18:269][738]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Camara_Widget_Auto3258791944399E8F22212DAA8D55AC75D.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Interface/Camara_Widget_Auto3.uasset'
+[2020.11.15-00.37.18:272][738]LogFileHelpers: Auto-saving content packages took 0.258
+[2020.11.15-00.40.46:867][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/GameOver.GameOver
+[2020.11.15-00.41.04:934][697]LogSlate: Window 'GameOver' being destroyed
+[2020.11.15-00.41.04:950][697]LogSlate: Window 'GameOver' being destroyed
+[2020.11.15-00.41.04:966][697]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.04:966][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.05:008][697]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.05:008][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.05:165][697]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.05:165][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.05:301][697]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.05:301][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.05:309][697]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.05:309][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.06:479][744]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-00.41.09:433][818]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.41.09:494][818]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.15-00.41.09:496][818]LogPlayLevel: [PlayLevel] Compiling GameOver before play...
+[2020.11.15-00.41.09:580][818]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.11.15-00.41.09:585][818]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2020.11.15-00.41.09:585][818]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:41:09 PM)
+[2020.11.15-00.41.09:586][818]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.41.09:627][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041429s)
+[2020.11.15-00.41.09:629][818]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.41.09:630][818]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000189B8D97000), frame # 392818
+[2020.11.15-00.41.09:630][818]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018A1332D580), frame # 392818
+[2020.11.15-00.41.09:630][818]LogPlayLevel: PIE: World Init took: (0.002729s)
+[2020.11.15-00.41.09:630][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044536s)
+[2020.11.15-00.41.09:675][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.11.15-00.41.09:677][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.41.09:677][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.41.09:677][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.41.09:677][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.41.09:677][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.41.09:678][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.41.09:678][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.41.09:678][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.41.09:679][818]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.41.09:679][818]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.41.09:682][818]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.41.09:682][818]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.41.09:740][818]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.41.09:740][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.41.09:740][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.41.09:740][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.41.09:741][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.41.09:781][818]LogInit: FAudioDevice initialized.
+[2020.11.15-00.41.09:806][818]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.41.09:810][818]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.41.09
+[2020.11.15-00.41.09:811][818]LogWorld: Bringing up level for play took: 0.003758
+[2020.11.15-00.41.09:811][818]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.11.15-00.41.09:817][818]PIE: Server logged in
+[2020.11.15-00.41.09:818][818]PIE: Play in editor total start time 0.33 seconds.
+[2020.11.15-00.41.13:121][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.41.13:121][915]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.41.13:121][915]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.13:122][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.13:132][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.41.13:140][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.13:181][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.41.13:238][915]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018A1332D580), frame # 392915
+[2020.11.15-00.41.13:238][915]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000189B8D97000), frame # 392915
+[2020.11.15-00.41.13:243][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.11.15-00.41.13:304][916]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.11.15-00.41.38:374][425]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.41.38:415][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.41.38:415][425]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:41:38 PM)
+[2020.11.15-00.41.38:415][425]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.41.38:445][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028994s)
+[2020.11.15-00.41.38:446][425]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.41.38:447][425]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000189B560CC00), frame # 393425
+[2020.11.15-00.41.38:447][425]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000189B60AA480), frame # 393425
+[2020.11.15-00.41.38:447][425]LogPlayLevel: PIE: World Init took: (0.002241s)
+[2020.11.15-00.41.38:447][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031542s)
+[2020.11.15-00.41.38:495][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.41.38:498][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.41.38:498][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.41.38:499][425]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.41.38:499][425]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.41.38:501][425]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.41.38:501][425]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.41.38:551][425]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.41.38:551][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.41.38:551][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.41.38:552][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.41.38:553][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.41.38:589][425]LogInit: FAudioDevice initialized.
+[2020.11.15-00.41.38:599][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.41.38:602][425]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.41.38
+[2020.11.15-00.41.38:603][425]LogWorld: Bringing up level for play took: 0.002635
+[2020.11.15-00.41.38:603][425]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.11.15-00.41.38:606][425]PIE: Server logged in
+[2020.11.15-00.41.38:608][425]PIE: Play in editor total start time 0.197 seconds.
+[2020.11.15-00.41.44:403][601]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.44:403][601]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.41.44:403][601]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.41.48:319][685]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.48:942][697]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.49:446][706]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.49:956][715]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.51:609][745]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.41.51:610][745]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.41.51:610][745]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.41.53:143][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.41.53:143][769]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.41.53:143][769]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.41.53:144][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.53:161][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.41.53:169][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.41.53:206][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.41.53:261][769]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000189B560CC00), frame # 393769
+[2020.11.15-00.41.53:269][769]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000189B60AA480), frame # 393769
+[2020.11.15-00.41.53:277][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.11.15-00.41.53:501][770]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.11.15-00.41.54:623][816]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.41.54:637][816]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.43.01:869][698]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Animation_BP.Animation_BP
+[2020.11.15-00.43.01:884][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.15-00.43.02:389][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.15-00.43.08:887][934]LogSlate: Window 'Animation_BP' being destroyed
+[2020.11.15-00.43.08:897][934]LogSlate: Window 'Animation_BP' being destroyed
+[2020.11.15-00.43.08:914][934]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.08:914][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.08:943][934]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.08:943][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.09:133][934]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.09:133][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.09:140][934]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.09:140][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.09:389][934]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.09:389][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.12:254][ 48]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Character/NewBlendSpace.NewBlendSpace
+[2020.11.15-00.43.12:348][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.15-00.43.12:688][ 48]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.15-00.43.13:932][ 48]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.15-00.43.15:846][128]LogSlate: Window 'NewBlendSpace' being destroyed
+[2020.11.15-00.43.15:862][128]LogSlate: Window 'NewBlendSpace' being destroyed
+[2020.11.15-00.43.15:863][128]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.15:863][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.16:171][128]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.43.16:171][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.43.34:955][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.15-00.45.41:207][376]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.45.41:262][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.45.41:263][376]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:45:41 PM)
+[2020.11.15-00.45.41:263][376]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.45.41:296][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033299s)
+[2020.11.15-00.45.41:303][376]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.45.41:303][376]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000189B44FD800), frame # 397376
+[2020.11.15-00.45.41:303][376]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000189B450A0C0), frame # 397376
+[2020.11.15-00.45.41:303][376]LogPlayLevel: PIE: World Init took: (0.006711s)
+[2020.11.15-00.45.41:303][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040307s)
+[2020.11.15-00.45.41:587][376]LogUObjectHash: Compacting FUObjectHashTables data took  13.00ms
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.45.41:627][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.45.41:627][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.45.41:629][376]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.45.41:629][376]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.45.41:632][376]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.45.41:633][376]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.45.41:695][376]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.45.41:696][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.45.41:696][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.45.41:696][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.45.41:698][376]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.45.41:738][376]LogInit: FAudioDevice initialized.
+[2020.11.15-00.45.41:757][376]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.45.41:760][376]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.45.41
+[2020.11.15-00.45.41:760][376]LogWorld: Bringing up level for play took: 0.002261
+[2020.11.15-00.45.41:761][376]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.11.15-00.45.41:764][376]PIE: Server logged in
+[2020.11.15-00.45.41:765][376]PIE: Play in editor total start time 0.506 seconds.
+[2020.11.15-00.45.46:170][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.45.46:170][488]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.45.46:171][488]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.45.46:171][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.45.46:334][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.45.46:349][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.45.46:463][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.45.46:480][488]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000189B450A0C0), frame # 397488
+[2020.11.15-00.45.46:480][488]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000189B44FD800), frame # 397488
+[2020.11.15-00.45.46:572][488]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2020.11.15-00.45.46:654][489]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.11.15-00.45.57:611][898]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.45.57:672][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.45.57:672][898]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:45:57 PM)
+[2020.11.15-00.45.57:673][898]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.45.57:703][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030065s)
+[2020.11.15-00.45.57:705][898]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.45.57:705][898]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018816FF2800), frame # 397898
+[2020.11.15-00.45.57:705][898]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000188A0F24F40), frame # 397898
+[2020.11.15-00.45.57:706][898]LogPlayLevel: PIE: World Init took: (0.002419s)
+[2020.11.15-00.45.57:706][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032767s)
+[2020.11.15-00.45.57:761][898]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.45.57:770][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.45.57:770][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.45.57:771][898]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.45.57:772][898]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.45.57:774][898]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.45.57:774][898]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.45.57:835][898]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.45.57:836][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.45.57:836][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.45.57:836][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.45.57:837][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.45.57:838][898]LogInit: FAudioDevice initialized.
+[2020.11.15-00.45.57:890][898]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.45.57:897][898]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.45.57
+[2020.11.15-00.45.57:898][898]LogWorld: Bringing up level for play took: 0.004546
+[2020.11.15-00.45.57:899][898]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.11.15-00.45.57:903][898]PIE: Server logged in
+[2020.11.15-00.45.57:904][898]PIE: Play in editor total start time 0.236 seconds.
+[2020.11.15-00.46.03:014][ 25]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.46.03:015][ 25]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.46.03:015][ 25]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.46.03:761][ 39]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.46.03:761][ 39]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.46.03:761][ 39]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.46.04:968][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.46.04:968][ 60]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.46.04:968][ 60]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.46.04:969][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.46.04:992][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.46.05:001][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.46.05:097][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.46.05:105][ 60]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000188A0F24F40), frame # 398060
+[2020.11.15-00.46.05:105][ 60]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018816FF2800), frame # 398060
+[2020.11.15-00.46.05:109][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.11.15-00.46.05:371][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.11.15-00.46.06:548][ 99]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.46.06:569][ 99]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.46.54:542][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo.Bullet_rojo
+[2020.11.15-00.48.12:639][492]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.bullet_amarillo
+[2020.11.15-00.48.31:420][ 41]LogEditorTransaction: Undo Resize Node
+[2020.11.15-00.48.32:652][ 70]LogEditorTransaction: Undo Break Pin Links
+[2020.11.15-00.48.33:570][ 96]LogEditorTransaction: Undo Break Pin Links
+[2020.11.15-00.50.26:057][534]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-00.52.34:870][988]BlueprintLog: New page: Compile Bullet_rojo
+[2020.11.15-00.52.35:020][988]LogBlueprint: Error: [Compiler Bullet_rojo] Failed to resolve term  Value generated from expanding Increment Int  passed into  Target generated from expanding Increment Int
+[2020.11.15-00.52.35:156][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.11.15-00.54.15:095][754]BlueprintLog: New page: Compile Bullet_rojo
+[2020.11.15-00.54.15:112][754]LogBlueprint: Error: [Compiler Bullet_rojo] The property associated with  Objetivos Rojo  could not be found in '/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo.Bullet_rojo_C'
+[2020.11.15-00.54.15:203][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.11.15-00.54.50:816][698]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.11.15-00.54.51:008][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.11.15-00.54.53:623][752]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonCharacter8044BB104DB763EDD51E33838B019D36.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.15-00.54.53:659][752]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.11.15-00.54.53:659][752]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.15-00.54.57:568][856]BlueprintLog: New page: Compile Bullet_rojo
+[2020.11.15-00.54.57:793][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.11.15-00.56.29:996][427]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/bullet_amarilloD4FEC8844311466103A98E88FE4C4210.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.uasset'
+[2020.11.15-00.56.30:030][427]AssetCheck: New page: Asset Save: bullet_amarillo
+[2020.11.15-00.56.30:030][427]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.bullet_amarillo
+[2020.11.15-00.56.31:096][458]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-00.56.31:355][458]LogBlueprint: Error: [Compiler bullet_amarillo] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2020.11.15-00.56.31:357][458]LogBlueprint: Error: [Compiler bullet_amarillo] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.11.15-00.56.31:473][458]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.11.15-00.56.49:140][949]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-00.56.49:271][949]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.11.15-00.56.55:257][120]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-00.56.55:375][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.11.15-00.56.56:388][143]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/bullet_amarillo33DA09974E072B3AD01D10B5761887C7.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.uasset'
+[2020.11.15-00.56.56:410][143]AssetCheck: New page: Asset Save: bullet_amarillo
+[2020.11.15-00.56.56:411][143]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.bullet_amarillo
+[2020.11.15-00.56.59:689][249]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.56.59:731][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.56.59:732][249]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:56:59 PM)
+[2020.11.15-00.56.59:732][249]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.56.59:756][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024118s)
+[2020.11.15-00.56.59:763][249]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.56.59:763][249]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000189AFB0C400), frame # 416249
+[2020.11.15-00.56.59:763][249]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018A97075BC0), frame # 416249
+[2020.11.15-00.56.59:763][249]LogPlayLevel: PIE: World Init took: (0.006822s)
+[2020.11.15-00.56.59:764][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031238s)
+[2020.11.15-00.56.59:823][249]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.56.59:825][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.56.59:826][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.56.59:826][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.56.59:827][249]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.56.59:827][249]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.56.59:830][249]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.56.59:830][249]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.56.59:887][249]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.56.59:887][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.56.59:887][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.56.59:888][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.56.59:889][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.56.59:922][249]LogInit: FAudioDevice initialized.
+[2020.11.15-00.56.59:933][249]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.56.59:937][249]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.56.59
+[2020.11.15-00.56.59:937][249]LogWorld: Bringing up level for play took: 0.002993
+[2020.11.15-00.56.59:938][249]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2020.11.15-00.56.59:941][249]PIE: Server logged in
+[2020.11.15-00.56.59:943][249]PIE: Play in editor total start time 0.214 seconds.
+[2020.11.15-00.57.00:972][289]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.01:944][323]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.01:944][323]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.01:944][323]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.05:003][408]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.05:003][408]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.05:003][408]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.05:657][424]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.05:657][424]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.05:657][424]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.06:503][444]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.06:503][444]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.06:503][444]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.07:152][458]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.07:153][458]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.07:153][458]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.07:764][471]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.07:764][471]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.07:764][471]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.08:327][483]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.08:328][483]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.08:328][483]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.09:972][516]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.11:889][554]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.11:889][554]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.11:889][554]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.13:162][578]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.13:163][578]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.13:163][578]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.14:092][594]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.57.14:093][594]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.14:093][594]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.57.15:183][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.57.15:183][611]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.57.15:184][611]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.57.15:184][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.57.15:196][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.57.15:208][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.57.15:251][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.57.15:314][611]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018A97075BC0), frame # 416611
+[2020.11.15-00.57.15:314][611]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000189AFB0C400), frame # 416611
+[2020.11.15-00.57.15:319][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.11.15-00.57.15:507][612]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2020.11.15-00.57.17:812][706]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.57.17:827][706]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.57.56:130][775]BlueprintLog: New page: Compile Bullet_rojo
+[2020.11.15-00.57.56:238][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.11.15-00.57.57:533][806]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-00.57.57:653][806]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.11.15-00.57.59:284][845]BlueprintLog: New page: Compile Camara_Widget
+[2020.11.15-00.57.59:369][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.11.15-00.58.01:001][877]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.11.15-00.58.01:217][877]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2020.11.15-00.58.07:270][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-00.58.07:313][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-00.58.07:313][ 35]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 2:58:07 PM)
+[2020.11.15-00.58.07:314][ 35]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.58.07:339][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025365s)
+[2020.11.15-00.58.07:341][ 35]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-00.58.07:341][ 35]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001898F667400), frame # 418035
+[2020.11.15-00.58.07:341][ 35]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018A83E2E980), frame # 418035
+[2020.11.15-00.58.07:341][ 35]LogPlayLevel: PIE: World Init took: (0.002045s)
+[2020.11.15-00.58.07:341][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027624s)
+[2020.11.15-00.58.07:397][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-00.58.07:401][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-00.58.07:402][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-00.58.07:403][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-00.58.07:403][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-00.58.07:405][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-00.58.07:405][ 35]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-00.58.07:457][ 35]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-00.58.07:457][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-00.58.07:457][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-00.58.07:457][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-00.58.07:458][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-00.58.07:493][ 35]LogInit: FAudioDevice initialized.
+[2020.11.15-00.58.07:506][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-00.58.07:510][ 35]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-19.58.07
+[2020.11.15-00.58.07:510][ 35]LogWorld: Bringing up level for play took: 0.003001
+[2020.11.15-00.58.07:511][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.11.15-00.58.07:519][ 35]PIE: Server logged in
+[2020.11.15-00.58.07:520][ 35]PIE: Play in editor total start time 0.21 seconds.
+[2020.11.15-00.58.08:582][ 75]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.09:443][106]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.09:443][106]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.09:443][106]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.12:341][189]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.12:341][189]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.12:341][189]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.12:963][204]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.12:963][204]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.12:963][204]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.13:596][219]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.13:596][219]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.13:596][219]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.14:138][231]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.14:139][231]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.14:139][231]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.15:752][266]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.16:478][281]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.17:970][310]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.17:970][310]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.17:971][310]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.21:064][364]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.21:065][364]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.21:065][364]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.21:830][376]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.21:831][376]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.21:831][376]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.22:494][386]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.22:494][386]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.22:495][386]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.23:148][396]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.23:149][396]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.23:149][396]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-00.58.24:319][414]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.24:940][424]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.25:813][437]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-00.58.26:333][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.58.26:333][444]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-00.58.26:333][444]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-00.58.26:334][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.58.26:476][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-00.58.26:489][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-00.58.26:531][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-00.58.26:597][444]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018A83E2E980), frame # 418444
+[2020.11.15-00.58.26:597][444]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001898F667400), frame # 418444
+[2020.11.15-00.58.26:600][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.11.15-00.58.26:870][445]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.11.15-00.58.28:398][500]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.58.28:412][500]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-00.59.00:035][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.11.15-00.59.00:268][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap_Auto46EB686034A83FB8B11DE4385E03D0312.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.11.15-00.59.00:284][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.364
+[2020.11.15-00.59.00:284][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.364
+[2020.11.15-00.59.00:288][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animation_BP] ([1] browsable assets)...
+[2020.11.15-00.59.00:288][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animation_BP]
+[2020.11.15-00.59.00:434][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Animation_BP_Auto47B899F8947564AFC9FC83BB532B0DCFB.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Character/Animation_BP_Auto4.uasset'
+[2020.11.15-00.59.00:534][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo] ([1] browsable assets)...
+[2020.11.15-00.59.00:564][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.bullet_amarillo]
+[2020.11.15-00.59.00:565][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo]
+[2020.11.15-00.59.00:663][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/bullet_amarillo_Auto43AB458C041766991069D22AA926A1FBF.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo_Auto4.uasset'
+[2020.11.15-00.59.00:733][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo] ([1] browsable assets)...
+[2020.11.15-00.59.00:751][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo.Bullet_rojo]
+[2020.11.15-00.59.00:751][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo]
+[2020.11.15-00.59.00:919][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Bullet_rojo_Auto45919995B407A0F8F24C3AFA6E412557B.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo_Auto4.uasset'
+[2020.11.15-00.59.00:923][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/Camara_Widget] ([1] browsable assets)...
+[2020.11.15-00.59.00:923][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/Camara_Widget]
+[2020.11.15-00.59.01:034][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Camara_Widget_Auto48E14A92D46A7924A254063B506CB27A4.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Interface/Camara_Widget_Auto4.uasset'
+[2020.11.15-00.59.01:066][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/GameOver] ([1] browsable assets)...
+[2020.11.15-00.59.01:066][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/GameOver]
+[2020.11.15-00.59.01:309][952]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/GameOver_Auto49C5F1DDA4A635D0ADC07D8A5250CBCA5.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Interface/GameOver_Auto4.uasset'
+[2020.11.15-00.59.01:324][952]LogFileHelpers: Auto-saving content packages took 1.040
+[2020.11.15-01.05.53:682][751]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.05.54:265][762]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.05.54:708][775]LogEditorTransaction: Undo Move Nodes
+[2020.11.15-01.05.55:242][789]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.05.55:731][803]LogEditorTransaction: Undo Add Node
+[2020.11.15-01.05.56:249][819]LogEditorTransaction: Undo Resize Node
+[2020.11.15-01.05.56:699][832]LogEditorTransaction: Undo Resize Node
+[2020.11.15-01.05.57:140][845]LogEditorTransaction: Undo Create Pin Link
+[2020.11.15-01.05.57:660][860]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.05.58:188][876]LogEditorTransaction: Undo Create Pin Link
+[2020.11.15-01.05.58:668][890]LogEditorTransaction: Undo Add Node
+[2020.11.15-01.05.59:171][905]LogEditorTransaction: Undo Add Node
+[2020.11.15-01.05.59:750][923]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.06.00:487][947]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.06.01:262][973]LogEditorTransaction: Undo Add Node
+[2020.11.15-01.06.01:946][995]LogEditorTransaction: Undo Break Pin Links
+[2020.11.15-01.06.04:489][ 78]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-01.06.04:733][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.11.15-01.06.07:494][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-01.06.07:534][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-01.06.07:534][171]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 3:06:07 PM)
+[2020.11.15-01.06.07:534][171]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-01.06.07:556][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021480s)
+[2020.11.15-01.06.07:558][171]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-01.06.07:558][171]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018A68CD7000), frame # 421171
+[2020.11.15-01.06.07:558][171]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018A976C1F80), frame # 421171
+[2020.11.15-01.06.07:559][171]LogPlayLevel: PIE: World Init took: (0.002605s)
+[2020.11.15-01.06.07:559][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024372s)
+[2020.11.15-01.06.07:617][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.11.15-01.06.07:620][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-01.06.07:621][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-01.06.07:621][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-01.06.07:622][171]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-01.06.07:622][171]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-01.06.07:624][171]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-01.06.07:624][171]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-01.06.07:682][171]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-01.06.07:682][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-01.06.07:682][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-01.06.07:683][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-01.06.07:683][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-01.06.07:715][171]LogInit: FAudioDevice initialized.
+[2020.11.15-01.06.07:728][171]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-01.06.07:731][171]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-20.06.07
+[2020.11.15-01.06.07:732][171]LogWorld: Bringing up level for play took: 0.003014
+[2020.11.15-01.06.07:732][171]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.11.15-01.06.07:737][171]PIE: Server logged in
+[2020.11.15-01.06.07:740][171]PIE: Play in editor total start time 0.211 seconds.
+[2020.11.15-01.06.08:932][220]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.06.08:932][220]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.08:932][220]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.12:507][334]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.06.12:508][334]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.12:508][334]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.16:229][424]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.06.20:148][502]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.06.20:886][515]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.06.20:886][515]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.20:886][515]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.06.22:351][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-01.06.22:351][539]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-01.06.22:351][539]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.06.22:352][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.06.22:373][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-01.06.22:386][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.06.22:478][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-01.06.22:494][539]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018A976C1F80), frame # 421539
+[2020.11.15-01.06.22:494][539]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018A68CD7000), frame # 421539
+[2020.11.15-01.06.22:500][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.11.15-01.06.22:688][540]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.11.15-01.06.23:740][585]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-01.06.23:751][585]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-01.08.32:440][770]Cmd: TRANSACTION UNDO
+[2020.11.15-01.08.32:440][770]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.08.34:018][808]LogEditorTransaction: Undo Move Node
+[2020.11.15-01.09.32:606][517]BlueprintLog: New page: Compile bullet_amarillo
+[2020.11.15-01.09.32:739][517]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.11.15-01.09.36:379][635]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-01.09.36:417][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-01.09.36:418][635]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 3:09:36 PM)
+[2020.11.15-01.09.36:418][635]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-01.09.36:441][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022780s)
+[2020.11.15-01.09.36:444][635]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-01.09.36:444][635]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018A80D2BA00), frame # 424635
+[2020.11.15-01.09.36:444][635]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018A96A3D940), frame # 424635
+[2020.11.15-01.09.36:444][635]LogPlayLevel: PIE: World Init took: (0.003156s)
+[2020.11.15-01.09.36:444][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026175s)
+[2020.11.15-01.09.36:509][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-01.09.36:514][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-01.09.36:514][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-01.09.36:515][635]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-01.09.36:515][635]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-01.09.36:519][635]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-01.09.36:519][635]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-01.09.36:574][635]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.11.15-01.09.36:574][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-01.09.36:574][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-01.09.36:574][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-01.09.36:575][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-01.09.36:608][635]LogInit: FAudioDevice initialized.
+[2020.11.15-01.09.36:625][635]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.15-01.09.36:631][635]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-20.09.36
+[2020.11.15-01.09.36:631][635]LogWorld: Bringing up level for play took: 0.004768
+[2020.11.15-01.09.36:631][635]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.11.15-01.09.36:635][635]PIE: Server logged in
+[2020.11.15-01.09.36:637][635]PIE: Play in editor total start time 0.223 seconds.
+[2020.11.15-01.09.37:560][673]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.39:462][738]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.40:200][760]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.40:200][760]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.09.40:200][760]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.09.41:806][803]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.41:807][803]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.09.41:807][803]PIE: Warning: Invalid Simulate Options: Body (bullet_amarillo_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.15-01.09.43:008][830]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.44:977][873]LogAnimMontage: Warning: Playing a Montage (FirstPersonFire_Montage) for the wrong Skeleton (Walk_With_Rifle_Skeleton) instead of (SK_Mannequin_Arms_Skeleton).
+[2020.11.15-01.09.46:289][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-01.09.46:289][898]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-01.09.46:290][898]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.09.46:292][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.09.46:310][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-01.09.46:321][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.09.46:369][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-01.09.46:432][898]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018A96A3D940), frame # 424898
+[2020.11.15-01.09.46:432][898]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018A80D2BA00), frame # 424898
+[2020.11.15-01.09.46:436][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.11.15-01.09.46:646][899]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.11.15-01.09.47:740][941]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-01.09.47:752][941]LogSlate: Window 'Message Log' being destroyed
+[2020.11.15-01.10.12:959][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.11.15-01.10.13:113][ 40]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap_Auto5B6C134834396E5DE4A297BBF637454A0.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.11.15-01.10.13:118][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.256
+[2020.11.15-01.10.13:118][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2020.11.15-01.10.13:119][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo] ([1] browsable assets)...
+[2020.11.15-01.10.13:145][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo.bullet_amarillo]
+[2020.11.15-01.10.13:145][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo]
+[2020.11.15-01.10.13:200][ 40]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/bullet_amarillo_Auto5B9576F0740CE9F76EB6A83B06FD3C44E.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo_Auto5.uasset'
+[2020.11.15-01.10.13:203][ 40]LogFileHelpers: Auto-saving content packages took 0.084
+[2020.11.15-01.12.08:719][827]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.12.08:719][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.12.08:762][827]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.12.08:762][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.12.18:238][ 92]BlueprintLog: New page: Compile Bullet_rojo
+[2020.11.15-01.12.18:504][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.11.15-01.12.22:123][218]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/Camara_Widget.Camara_Widget
+[2020.11.15-01.14.26:281][ 56]BlueprintLog: New page: Compile Camara_Widget
+[2020.11.15-01.14.26:403][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.11.15-01.17.17:364][865]LogSlate: Window 'Camara_Widget' being destroyed
+[2020.11.15-01.17.17:372][865]LogSlate: Window 'Camara_Widget' being destroyed
+[2020.11.15-01.17.17:411][865]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.17:411][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.17:819][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.15-01.17.17:819][865]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.17:819][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.18:000][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.15-01.17.18:000][865]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.18:000][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.18:233][865]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.18:233][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.18:239][865]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.18:239][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.25:757][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.11.15-01.17.28:347][265]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2020.11.15-01.17.28:366][265]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2020.11.15-01.17.28:373][265]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.28:373][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.29:211][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2020.11.15-01.17.45:817][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.11.15-01.17.49:357][643]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.49:357][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.17.55:150][839]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2020.11.15-01.17.55:169][839]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2020.11.15-01.17.55:204][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.15-01.17.55:204][839]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-01.17.55:204][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-01.20.13:892][869]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2020.11.15-01.20.14:054][869]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap_Auto641157BB940DA691C3D0901B7D4311131.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2020.11.15-01.20.14:058][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.234
+[2020.11.15-01.20.14:058][869]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2020.11.15-01.20.14:059][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo] ([1] browsable assets)...
+[2020.11.15-01.20.14:059][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo]
+[2020.11.15-01.20.14:132][869]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/bullet_amarillo_Auto6B5CCF6B141EDFCE053184AA561322D64.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Bullet/bullet_amarillo_Auto6.uasset'
+[2020.11.15-01.20.14:135][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo] ([1] browsable assets)...
+[2020.11.15-01.20.14:153][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo.Bullet_rojo]
+[2020.11.15-01.20.14:153][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo]
+[2020.11.15-01.20.14:227][869]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Bullet_rojo_Auto610474E7E4CEF8CA3ED6283B16F2ADC86.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/FirstPersonBP/Blueprints/Bullet/Bullet_rojo_Auto6.uasset'
+[2020.11.15-01.20.14:230][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/Camara_Widget] ([1] browsable assets)...
+[2020.11.15-01.20.14:230][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/Camara_Widget]
+[2020.11.15-01.20.14:318][869]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Camara_Widget_Auto690DF39494B89FEB4C55F14B990474CF2.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/Autosaves/Game/Interface/Camara_Widget_Auto6.uasset'
+[2020.11.15-01.20.14:343][869]LogFileHelpers: Auto-saving content packages took 0.284
+[2020.11.15-01.20.42:172][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.15-01.22.39:010][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.11.15-01.22.39:098][434]LogSavePackage: Moving '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Saved/FirstPersonExampleMap0A584DB04A9F56FC4FEAA59FD10C9B77.tmp' to '../../../../../../Users/crist/OneDrive/Escritorio/repositorios/Taller_Planva/Taller_Planva/Taller_Planva/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
